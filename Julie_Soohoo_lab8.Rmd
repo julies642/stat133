@@ -1,0 +1,22 @@
+---
+title: "Julie Soohoo Lab 8"
+author: "Julie Soohoo"
+date: ""
+output: 
+  html_document:
+    fig_height: 3
+    fig_width: 5
+---
+Compiled on `r date()`.
+<!-- Don't edit in between this line and the one below -->
+```{r include=FALSE}
+# Don't delete this chunk if you are using the DataComputing package
+library(DataComputing)
+```
+*Source file* 
+```{r, results='asis', echo=FALSE}
+includeSourceDocuments()
+```
+<!-- Don't edit the material above this line -->
+
+Hello World, it's cold out there. This is lab 8.
